@@ -1,7 +1,8 @@
 ### motivation letter
 ----------------
-Hello, I want to work in your company.
-I use a computer at an almost perfect level. I help my friends fix computers, reinstall windows, and more on the little things. I can understand any program, about problems, it depends on its complexity, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about for example disk remapping, this is already more difficult, but I hope to master it in the future.
+Hello, my friends recommended me to apply to your company.
+they told me that this is good place where I can learn new stuff from experience guys.
+I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program, about problems, it depends on its complexity, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about for example disk remapping, this is already more difficult, but I hope to master it in the future.
 
 I know how to work with multimeter 
 
@@ -13,9 +14,8 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
 - Name:	Deniss Orlovs
 - Age:	24
 - Birth date:	18. June 1995
-- Sex:	Male
-- Address:	Rīga, Rīga, Rīgas rajons, Latvia
-- E-mail:	
+- Address:	Rīga, Rīgas rajons, Latvia
+- E-mail: deniss.orlovs.1@gmail.com      		
 - Contact telephone:	+37127177425
 - Level of education:	Higher education in acquisition
 - Current job status:	Studying
@@ -34,6 +34,8 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
 
 - Institute of Transport and Telecommunications	Bachelor<br/><br/>
  Major:	2015 - , Programming
+ 
+ c++, .net gde risovali bukvi opengl, clr
  
 ### Work experience
 ----------------
@@ -76,8 +78,7 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
  
 ### Computer Skills
 ----------------
-
-- Basic:	Access, Adobe Photoshop, Linux
+- Basic:	Access, Adobe Photoshop, Linux, c++, c#, 
 - Medium:	HTML
 - Expert:	Windows 10
  
