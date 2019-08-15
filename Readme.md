@@ -1,0 +1,77 @@
+### Personal Data
+----------------
+- Name:	Deniss Orlovs
+- Age:	24
+- Birth date:	18. June 1995
+- Sex:	Male
+- Address:	Rīga, Rīga, Rīgas rajons, Latvia
+- E-mail:	
+- Contact telephone:	+37127177425
+- Level of education:	Higher education in acquisition
+- Current job status:	Studying
+ 
+ 
+ ### Introduction and aims
+ ----------------
+- 24 year old boy with bachelor's degree in computer science, ready to learn new skills
+ 
+ ### Secondary education
+ ----------------
+- Riga secondary school No. 65<br/><br/>
+ Period of studies:	2002 - 2014
+### Higher education
+----------------
+
+- Institute of Transport and Telecommunications	Bachelor<br/><br/>
+ Major:	2015 - , Programming
+ 
+### Work experience
+----------------
+- 06/2019 - Still working (2 months)	Nodibinājums ''Fonds Cerība''	Assistant
+- Job description:	- sorting and packaging of goods.
+ Cleaning the store.
+- Company data:	public institute, < 30 employees
+### Expectations for future job
+----------------
+- First preference	Information technology<br/>
+	Computer Technician
+- Second preference	Information technology<br/>
+Helpdesk (IT)
+
+ Suitable working time:	Full-time work<br/><br/>
+ Location:	Rīga, Rīgas rajons<br/><br/>
+ Availability for starting work:	ASAP
+ 
+ ### Language skills<br/> 
+ Native language: Russian
+
+ <table>
+<tr>
+<td>Latvian</td>
+<td>Interaction:<br/> C1 very good</td>
+<td>Production:<br/> C1 very good</td>
+<td>Reading:<br/> C1 very good</td>
+<td>Listening:<br/> C1 very good</td>
+<td>Writing:<br/> B2 good</td>
+</tr>
+<tr>
+<td>English</td>
+<td>Interaction:<br/> B2 good</td>
+<td>Production:<br/> B2 good</td>
+<td>Reading:<br/> C1 very good</td>
+<td>Listening:<br/> C1 very good</td>
+<td>Writing:<br/> B2 good</td>
+</tr>
+</table>
+ 
+### Computer Skills
+----------------
+
+- Basic:	Access, Adobe Photoshop, Linux
+- Medium:	HTML
+- Expert:	Windows 10
+ 
+ 
+ ### Personal qualities
+ ----------------
+ - Interests and hobbies:<br/><br/>	In my spare time I fix computers and reinstall windows
