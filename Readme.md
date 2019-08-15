@@ -34,9 +34,9 @@
 ### Expectations for future job
 ----------------
 - First preference	Information technology<br/>
-	Computer Technician
+	QA specialist
 - Second preference	Information technology<br/>
-Helpdesk (IT)
+	Helpdesk (IT)
 
  Suitable working time:	Full-time work<br/><br/>
  Location:	Rīga, Rīgas rajons<br/><br/>
@@ -75,3 +75,17 @@ Helpdesk (IT)
  ### Personal qualities
  ----------------
  - Interests and hobbies:<br/><br/>	In my spare time I fix computers and reinstall windows
+ 
+### motivation letter
+----------------
+Hello, I want to work in your company.
+I use a computer at an almost perfect level. I help my friends fix computers, reinstall windows, and more on the little things. I can understand any program, about problems, it depends on its complexity, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about for example disk remapping, this is already more difficult, but I hope to master it in the future.
+
+I know how to work with multimeter 
+
+I can install any program, I also reinstalled win 10 more than once, and I worked with linux on one task at the university. I study fast, always open to new knowledge.
+
+### Recomendation from Artur Klesun, GDS Direct team
+
+https://github.com/klesun/midiana.lv/blob/master/entry/public_personal/Denis_Orlov_recommentation.md
+
