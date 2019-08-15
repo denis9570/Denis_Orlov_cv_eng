@@ -1,7 +1,7 @@
-### motivation letter
+### Motivation letter
 ----------------
 Hello, my friends recommended me to apply to your company.
-they told me that this is good place where I can learn new stuff from experience guys.
+they told me that this is good place where I can learn new stuff from experienced geeks.
 I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program, about problems, it depends on its complexity, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about for example disk remapping, this is already more difficult, but I hope to master it in the future.
 
 I know how to work with multimeter 
@@ -12,7 +12,6 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
 ### Personal Data
 ----------------
 - Name:	Deniss Orlovs
-- Age:	24
 - Birth date:	18. June 1995
 - Address:	Rīga, Rīgas rajons, Latvia
 - E-mail: deniss.orlovs.1@gmail.com      		
@@ -33,7 +32,7 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
 ----------------
 
 - Institute of Transport and Telecommunications	Bachelor<br/><br/>
- Major:	2015 - , Programming
+  Major:	2015 - , Programming
  
  c++, .net gde risovali bukvi opengl, clr
  
@@ -78,9 +77,8 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
  
 ### Computer Skills
 ----------------
-- Basic:	Access, Adobe Photoshop, Linux, c++, c#, 
+- Basic:	Microsoft Access,   Adobe Photoshop, Linux, bach, c++, c#, 
 - Medium:	HTML
-- Expert:	Windows 10
  
  
  ### Personal qualities
