@@ -1,12 +1,12 @@
 ### Motivation letter
 ----------------
 Hello, my friends recommended me to apply to your company.
-they told me that this is good place where I can learn new stuff from experienced geeks.
+They told me that this is good place where I can learn new stuff from experienced geeks.
 I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program, about problems, it depends on its complexity, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about for example disk remapping, this is already more difficult, but I hope to master it in the future.
 
 I know how to work with multimeter 
 
-I can install any program, I also reinstalled win 10 more than once, and I worked with linux on one task at the university. I study fast, always open to new knowledge.
+I worked with linux on one task at the university. I always open to new knowledge.
 
 
 ### Personal Data
@@ -77,13 +77,17 @@ I can install any program, I also reinstalled win 10 more than once, and I worke
  
 ### Computer Skills
 ----------------
-- Basic:	Microsoft Access,   Adobe Photoshop, Linux, bach, c++, c#, 
-- Medium:	HTML
+- Basic:	Microsoft Access, Adobe Photoshop, Sony Vegas Pro, Linux, Bash, C++, C#, .NET. 
+- Medium:	HTML, CSS.
  
  
  ### Personal qualities
  ----------------
- - Interests and hobbies:<br/><br/>	In my spare time I fix computers and reinstall windows
+ - Good communication skills gained through my school and institute.
+ - Good contact skills with people gained through my experience as a teacher on the teachers day in the
+school.
+ - responsible
+ - study fast
  
 
 ### Recomendation from Artur Klesun, GDS Direct team
