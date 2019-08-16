@@ -7,13 +7,9 @@ They told me that this is good place where I can learn new stuff from experience
 
 I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
 
-
-I'm ok with working overtime if needed.
-
 I know how to work with multimeter. 
 
 I worked with linux on one task at the university. I am always open to new knowledge.
-
 
 ### Personal Data
 ----------------
@@ -82,7 +78,7 @@ The language used for statistical data processing and graphics
  
 ### Work experience
 ----------------
-- 06/2019 - Still working (2 months)	Nodibinājums ''Fonds Cerība''	Assistant
+- 06/2019 - Still working (2 months)	Nodibinājums ''fonds cerība''	assistant
 - Job description:	- sorting and packaging of goods.
  Cleaning the store.
 - Company data:	public institute, < 30 employees
@@ -93,6 +89,7 @@ The language used for statistical data processing and graphics
 - Second preference	Information technology<br/>
 	Helpdesk (IT)
 
+ I'm ok with working overtime if needed.
  Suitable working time:	Full-time work<br/><br/>
  Availability for starting work:	ASAP
  
