@@ -7,7 +7,6 @@ They told me that this is good place where I can learn new stuff from experience
 
 I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
 
-About technical problem, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about disk remapping, this is more difficult, but I hope to master it in the future.
 
 I'm ok with working overtime if needed.
 
