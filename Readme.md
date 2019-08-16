@@ -9,7 +9,7 @@ I use a computer at an almost perfect level. I help my friends fix notebooks, re
 
 I know how to work with multimeter. 
 
-I worked with linux on one task at the university. I am always open to new knowledge.
+I worked with linux many times in the universaty tasks. I am always open to new knowledge.
 
 ### Personal Data
 ----------------
