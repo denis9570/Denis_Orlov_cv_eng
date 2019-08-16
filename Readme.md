@@ -74,10 +74,6 @@ link to my calculator - https://github.com/denis9570/Haskell/blob/master/calc.hs
 
 The language used for statistical data processing and graphics
 
-for me personally, it was extremely hard, because here was my “favorite” Statistics, which was three semesters at the university
-and they were all under different names: "Probability Theory and Mathematical Statistics",
-"Methods of Computer Processing of Statistical Data", "Numerical Methods in Computer Calculations". With these lectures
-I went through fire and water and I'm glad that they ended.
 
  
 ### Work experience
