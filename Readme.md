@@ -81,7 +81,7 @@ The language used for statistical data processing and graphics
 - 06/2019 - Still working (2 months)	Nodibinājums ''fonds cerība''	assistant
 - Job description:	- sorting and packaging of goods.
  Cleaning the store.
-- Company data:	public institute, < 30 employees
+- Company data:	public institute
 ### Expectations for future job
 ----------------
 - First preference	Information technology<br/>
