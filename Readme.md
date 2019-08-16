@@ -4,13 +4,16 @@
 ----------------
 Hello, my friends recommended me to apply to your company.
 They told me that this is good place where I can learn new stuff from experienced geeks.
+
 I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
+
 About technical problem, if the program does not start or freezes, then it can be easily dealt with, but if a problem is about disk remapping, this is more difficult, but I hope to master it in the future.
+
 I'm ok with working overtime if needed.
 
 I know how to work with multimeter. 
 
-I worked with linux on one task at the university. I always open to new knowledge.
+I worked with linux on one task at the university. I am always open to new knowledge.
 
 
 ### Personal Data
@@ -41,14 +44,14 @@ I worked with linux on one task at the university. I always open to new knowledg
   
  - C++ 
   
-  is my first language, from that I learned all the basics of programming starting
-from creating variables and ending with working with memory. Many practical tasks were completed, but the most interesting
-was a course work, it was a database of games, that was
-the first experience of creating a base, I used all the knowledge I had received before.
-I remember such a problem that there was a line of code that was used several times in the program, and
-it had 30 lines of code, I decided to put this line in a separate function and when it will be needed
-then call it through a function. It was interesting and at the same time difficult. But learning something new
-always a pleasure
+	is my first language, from that I learned all the basics of programming starting
+	from creating variables and ending with working with memory. Many practical tasks were completed, but the most interesting
+	was a course work, it was a database of games, that was
+	the first experience of creating a base, I used all the knowledge I had received before.
+	I remember such a problem that there was a line of code that was used several times in the program, and
+	it had 30 lines of code, I decided to put this line in a separate function and when it will be needed
+	then call it through a function. It was interesting and at the same time difficult. But learning something new
+	always a pleasure
 
 link to my course work - https://github.com/denis9570/tsi_tasks/tree/master/Denya%20strikes%20back(2-nd%20semester)/course_work
 
@@ -73,6 +76,8 @@ link to my calculator - https://github.com/denis9570/Haskell/blob/master/calc.hs
 - R
 
 The language used for statistical data processing and graphics
+
+
 
 
  
