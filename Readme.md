@@ -120,8 +120,8 @@ The language used for statistical data processing and graphics
  
 ### Computer Skills
 ----------------
-- Basic:	Microsoft Access, Adobe Photoshop, Sony Vegas Pro, Linux, Bash, C++, C#, .NET. 
-- Medium:	HTML, CSS.
+	Linux, Bash, C++, C#, .NET. Microsoft Access, Adobe Photoshop, Sony Vegas Pro, 
+	HTML, CSS.
  
  
  ### Personal qualities
@@ -133,7 +133,6 @@ school.
  - study fast
  
 
-### Recomendation from Artur Klesun
-
+- Recomendation
 https://github.com/klesun/midiana.lv/blob/master/entry/public_personal/Denis_Orlov_recommentation.md
 
