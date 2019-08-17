@@ -48,30 +48,42 @@ I worked with linux many times in the universaty tasks. I am always open to new 
 	then call it through a function. It was interesting and at the same time difficult. But learning something new
 	always a pleasure
 
-link to my course work - https://github.com/denis9570/tsi_tasks/tree/master/Denya%20strikes%20back(2-nd%20semester)/course_work
+	link to my course work - <a href="https://github.com/denis9570/tsi_tasks/tree/master/Denya%20strikes%20back(2-nd%20semester)/course_work">Click</a>
 
 - Bash
 
-Probably the most interesting thing that was in the university, each lesson was more interesting than
-previous, our teacher <a href="https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B0%D0%BD%D0%B5%D1%86,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">Gudanets, Nikolai Leonardovich</a> was very cool, he talked a lot
-about the advantages of Linux, and how much he does not like windows.
+	Probably the most interesting thing that was in the university, each lesson was more interesting than
+	previous, our teacher 
+	<a    href="https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B0%D0%BD%D0%B5%D1%86,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">Gudanets, Nikolai Leonardovich</a> was very cool, he talked a lot
+	about the advantages of Linux, and how much he does not like windows.
+	
+	There was an interesting task from the topic "Shell Initialization Files and environment variables on UNIX / Linux"
+	the goal was to understand how to properly debug shell files
+	My task was to change the configuration files so that in the end of session the following window is displayed
+
+	Goodbye, UserName!
+	You worked HH hours, MM minutes, SS seconds
+
+	the goal of the work was to consolidate skills in using elementary commands and utilities of the Linux OS
+	
+ - Embedded Electronic Devices and Programming
  
+ 	In addition to common programming, we also had Electronics at the university.
+	In the Atmel studio program, we programmed the input / output ports.
+	In the final exam I make a program that controls the LEDs. For example: in the beggining working only
+	LED 1 and LED 3. After pressing the SW2 button, these LEDs turn off, but turn on
+	LED2.
+ 	
  
  - Haskell
  
-a pure functional language. There are no while loops or for loops, instead of it we used recursions,
-The idea of recursion is extremely simple: If we need to repeat the calculation performed by a certain function, we must apply
-this function within itself. And you get a loop.
+	a pure functional language. There are no while loops or for loops, instead of it we used recursions,
+	The idea of recursion is extremely simple: If we need to repeat the calculation performed by a certain function, we must apply
+	this function within itself. And you get a loop.
 
-Writing a calculator in this language was something new
+	Writing a calculator in this language was something new
 
-link to my calculator - https://github.com/denis9570/Haskell/blob/master/calc.hs
-
-
-- R
-
-The language used for statistical data processing and graphics
-
+	link to my <a href="https://github.com/denis9570/Haskell/blob/master/calc.hs">Calculator</a>
 
 
 
@@ -117,19 +129,19 @@ The language used for statistical data processing and graphics
  
 ### Computer Skills
 ----------------
-	Linux, Bash, C++, C#, .NET. Microsoft Access, Adobe Photoshop, Sony Vegas Pro, 
+	Linux, Bash, C++, C#, .NET. Microsoft Access, Adobe Photoshop,
 	HTML, CSS.
+<a href="https://www.youtube.com/watch?v=77ISnqIbaFE&feature=youtu.be">Sony Vegas Pro</a>
  
  
  ### Personal qualities
  ----------------
- - Good communication skills gained through my school and institute.
- - Good contact skills with people gained through my experience as a teacher on the teachers day in the
-school.
+ - Good <a href="https://www.youtube.com/watch?v=xlgqaG2gFfs">communication</a> skills gained through my school. I was a member of school TV team which helped me to improve my abilities.
+ 
  - responsible
  - study fast
  
 
 - Recomendation
-https://github.com/klesun/midiana.lv/blob/master/entry/public_personal/Denis_Orlov_recommentation.md
+<a href="https://github.com/klesun/midiana.lv/blob/master/entry/public_personal/Denis_Orlov_recommentation.md">Click</a>
 
