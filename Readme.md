@@ -6,7 +6,7 @@
 ### Motivation letter
 ----------------
 Hello, my friends recommended me to apply to your company.
-<img src="https://i.ibb.co/NSnhXm6/Screenshot-3.png" align="right">
+<img src="https://i.ibb.co/NSnhXm6/Screenshot-3.png" align="right" width="200" height="220">
 They told me that this is good place where I can learn new stuff from experienced geeks.
 
 I work with a computer at almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
