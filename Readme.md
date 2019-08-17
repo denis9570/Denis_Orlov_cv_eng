@@ -1,9 +1,15 @@
+
+
+
+
+
 ### Motivation letter
 ----------------
 Hello, my friends recommended me to apply to your company.
+<img src="https://i.ibb.co/NSnhXm6/Screenshot-3.png" align="right">
 They told me that this is good place where I can learn new stuff from experienced geeks.
 
-I use a computer at an almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
+I work with a computer at almost perfect level. I help my friends fix notebooks, reinstall windows, and more on the little things. I can understand any program. 
 
 I know how to work with multimeter. 
 
