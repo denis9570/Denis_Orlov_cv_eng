@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/qW3M8Vv/123.png" align="right" />
-
 ### Motivation letter
 ----------------
 Hello, my friends recommended me to apply to your company.
