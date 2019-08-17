@@ -56,7 +56,7 @@ I worked with linux many times in the universaty tasks. I am always open to new 
 
 - Bash
 
-	Probably the most interesting thing that was in the university, each lesson was more interesting than
+	Probably the most interesting course that was in the university, each lesson was more interesting than
 	previous, our teacher 
 	<a    href="https://ru.wikipedia.org/wiki/%D0%93%D1%83%D0%B4%D0%B0%D0%BD%D0%B5%D1%86,_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B0%D1%80%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">Gudanets, Nikolai Leonardovich</a> was very cool, he talked a lot
 	about the advantages of Linux, and how much he does not like windows.
