@@ -135,7 +135,6 @@ I worked with linux many times in the universaty tasks. I am always open to new 
 ----------------
 	Linux, Bash, C++, C#, .NET. Microsoft Access, Adobe Photoshop,
 	HTML, CSS.
-<a href="https://www.youtube.com/watch?v=77ISnqIbaFE&feature=youtu.be">Sony Vegas Pro</a>
  
  
  ### Personal qualities
